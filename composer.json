@@ -1,6 +1,6 @@
 {
-  "name":             "pattern-lab/plugin-reload",
-  "description":      "Automatic Browser Reload Support for Pattern Lab",
+  "name":             "ahebrank/plugin-reload",
+  "description":      "Automatic Browser Reload Support for Pattern Lab (forked with ws host 0.0.0.0)",
   "keywords":         ["reload", "websocket", "pattern lab"],
   "homepage":         "http://patternlab.io",
   "license":          "MIT",
